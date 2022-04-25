@@ -1,0 +1,2 @@
+Add line: "46.19.122.85 intra.42.fr" to the file etc/hosts
+Can be done with a command: echo 46.19.122.85 intra.42.fr >> etc/hosts

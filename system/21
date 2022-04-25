@@ -1,0 +1,3 @@
+cat /etc/passwd | grep "home" | cut -d : -f1
+
+# ls /home for quick use

@@ -1,0 +1,4 @@
+# ssh session
+ssh <username>@<host_ip_address>
+# graphic session
+give username and password
